@@ -1,0 +1,3 @@
+C:/Users/MaorBuskila/CLionProjects/WindowsRAT-Project/cmake-build-debug/CMakeFiles/WindowsRAT_Project.dir
+C:/Users/MaorBuskila/CLionProjects/WindowsRAT-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MaorBuskila/CLionProjects/WindowsRAT-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
